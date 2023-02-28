@@ -1,5 +1,4 @@
 # Reto01
 Aplicación Hospital
 
-### USERNAME : admin
-### PASSWORD : 1234
+#####Scrip de la bd en Oracle 18c
